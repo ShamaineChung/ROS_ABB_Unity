@@ -1,0 +1,4 @@
+Microsoft.MixedReality.QR.dll
+VuforiaWrapper.dll
+AudioPluginMsHRTF.dll
+Vuforia.dll
