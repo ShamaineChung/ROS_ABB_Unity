@@ -1,7 +1,0 @@
-#include "il2cpp-config.h"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
-#include "D:\Repo\ROS_ABB_Unity\ROSRobotArm15\UWP\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"
