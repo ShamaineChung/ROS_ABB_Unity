@@ -1,6 +1,6 @@
 # RoSTAR: ROS-based Telerobotic Control via Augmented Reality
 
-- Master dissertation,Chung Xue Er (Shamaine), July 2021. 
+- Master dissertation,Chung Xue Er (Shamaine), August 2021. 
 
 - Youtube demo: https://www.youtube.com/watch?v=7X5X7D9xEQE&ab_channel=ShamaineChung
 
