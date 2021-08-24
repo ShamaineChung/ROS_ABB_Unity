@@ -4,7 +4,7 @@
 
 - Youtube demo: https://www.youtube.com/watch?v=7X5X7D9xEQE&ab_channel=ShamaineChung
 
-- This project has emanated from research conducted with the financial support of Science Foundation Ireland (SFI) under grant number SFI/16/RC/3918, co-funded by CONFIRM Smart Manufacturing and Robotics & Drives Ltd during the Master Computing by Research program at Athlone Institute of Technology. 
+- This project has emanated from research conducted with the financial support of Science Foundation Ireland (SFI) under grant number SFI/16/RC/3918, co-funded by CONFIRM Smart Manufacturing and Robotics & Drives Ltd during the Master of Science by Research program at Athlone Institute of Technology. 
 
 # Project Description
 ![system architecture](https://user-images.githubusercontent.com/86027470/130598791-566ce324-80e8-4616-a6ad-8f34d60b804f.png)
