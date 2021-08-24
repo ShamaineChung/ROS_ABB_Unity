@@ -7,6 +7,7 @@
 - This project has emanated from research conducted with the financial support of Science Foundation Ireland (SFI) under grant number SFI/16/RC/3918, co-funded by CONFIRM Smart Manufacturing and Robotics & Drives Ltd during the Master Computing by Research program at Athlone Institute of Technology. 
 
 # Project Description
+![system architecture](https://user-images.githubusercontent.com/86027470/130598791-566ce324-80e8-4616-a6ad-8f34d60b804f.png)
 
 The RoSTAR project bridges the ABB IRB1200_5_90 robot arm with the Microsoft HoloLens 2, through [ROS#](https://github.com/siemens/ros-sharp).RoSTAR enables the user to interact and communicate with an ABB robotic arm (both real and virtual) with a HoloLens 2 headset. Computer vision-based Vuforia SDK is utilized to track and register the virtual robotic arm at a fixed position via the Hololens2 front-facing camera's coordinate system without the need of complex sensors and external RGB cameras. The virtual robot’s end-effector pose at the camera’s local coordinate frame is then transform into the world coordinate frame. The Unity world coordinate frame is converted to ROS world coordinate frame.  This allows the user to teleoperate the ROS-enabled ABB robotic arm seamlessly from a distance through the method of augmented trajectories.
 
